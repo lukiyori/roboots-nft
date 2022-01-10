@@ -1,0 +1,60 @@
+{
+    "image": "https://github.com/lukiyori/roboots-nft/blob/gh-pages/series-01/0.png",
+    "token_id": 0,
+    "name": "Roboots-NFT 0",
+    "description": "Only Test",
+    "attributes": [
+        {
+            "trait_type": "arm",
+            "value": 3
+        },
+        {
+            "trait_type": "hand",
+            "value": 3
+        },
+        {
+            "trait_type": "shoulderskeleton",
+            "value": 0
+        },
+        {
+            "trait_type": "shoulder",
+            "value": 5
+        },
+        {
+            "trait_type": "foot",
+            "value": 0
+        },
+        {
+            "trait_type": "leg",
+            "value": 5
+        },
+        {
+            "trait_type": "legskeleton",
+            "value": 0
+        },
+        {
+            "trait_type": "body",
+            "value": 1
+        },
+        {
+            "trait_type": "lowerbody",
+            "value": 1
+        },
+        {
+            "trait_type": "cockpit",
+            "value": 1
+        },
+        {
+            "trait_type": "lcd",
+            "value": 2
+        },
+        {
+            "trait_type": "headskeleton",
+            "value": 0
+        },
+        {
+            "trait_type": "head",
+            "value": 2
+        }
+    ]
+}

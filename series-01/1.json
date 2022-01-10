@@ -1,1 +1,12 @@
-test
+{
+    "image": "https://github.com/lukiyori/roboots-nft/blob/gh-pages/series-01/1.png",
+    "token_id": 1,
+    "name": "Roboots-NFT 1",
+    "description": "Only Test",
+    "attributes": [
+        {
+            "trait_type": "full_character",
+            "value": 0
+        }
+    ]
+}
