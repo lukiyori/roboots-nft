@@ -1,0 +1,104 @@
+{
+    "image": "https://raw.githubusercontent.com/lukiyori/roboots-nft/gh-pages/series-01/126.png",
+    "token_id": 126,
+    "name": "Roboots - Junksmiths #0126",
+    "description": "Only Test",
+    "attributes": [
+        {
+            "trait_type": "name",
+            "value": "Junksmiths #0126"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Gloomy"
+        },
+        {
+            "trait_type": "ArmRight",
+            "value": "Red-Sphere"
+        },
+        {
+            "trait_type": "HandRight",
+            "value": "Saw"
+        },
+        {
+            "trait_type": "ShoulderSkeletonRight",
+            "value": "Shoulder-Skeleton-Right"
+        },
+        {
+            "trait_type": "ShoulderRight",
+            "value": "Pink-Spike"
+        },
+        {
+            "trait_type": "FootRight",
+            "value": "Stripe-Caterpillar"
+        },
+        {
+            "trait_type": "LegRight",
+            "value": "Red-Pixel-Spike"
+        },
+        {
+            "trait_type": "LegSkeletonRight",
+            "value": "Leg-Skeleton-Right"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Pink-Leopard-Sphere"
+        },
+        {
+            "trait_type": "LowerBody",
+            "value": "Pink-Leopard-Sphere"
+        },
+        {
+            "trait_type": "FootLeft",
+            "value": "Stripe-Caterpillar"
+        },
+        {
+            "trait_type": "LegLeft",
+            "value": "Red-Sphere"
+        },
+        {
+            "trait_type": "LegSkeletonLeft",
+            "value": "Leg-Skeleton-Left"
+        },
+        {
+            "trait_type": "ArmLeft",
+            "value": "Pink-Leopard-Sphere"
+        },
+        {
+            "trait_type": "HandLeft",
+            "value": "Ghost-Hand"
+        },
+        {
+            "trait_type": "ShoulderSkeletonLeft",
+            "value": "Shoulder-Skeleton-Left"
+        },
+        {
+            "trait_type": "Cockpit",
+            "value": "Pink-Leopard-Sphere"
+        },
+        {
+            "trait_type": "Lcd",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "ShoulderLeft",
+            "value": "Pink-Bulky"
+        },
+        {
+            "trait_type": "HeadSkeleton",
+            "value": "Head-Skeleton"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Red-Pixel-Tower"
+        },
+        {
+            "trait_type": "RaceIcon",
+            "value": "Junksmiths"
+        },
+        {
+            "trait_type": "Quality",
+            "value": "Common"
+        }
+    ]
+}

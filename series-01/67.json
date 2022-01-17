@@ -1,0 +1,104 @@
+{
+    "image": "https://raw.githubusercontent.com/lukiyori/roboots-nft/gh-pages/series-01/67.png",
+    "token_id": 67,
+    "name": "Roboots - Junksmiths #0067",
+    "description": "Only Test",
+    "attributes": [
+        {
+            "trait_type": "name",
+            "value": "Junksmiths #0067"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Blue-Night"
+        },
+        {
+            "trait_type": "ArmRight",
+            "value": "Green-Bulky"
+        },
+        {
+            "trait_type": "HandRight",
+            "value": "Winter-Hand"
+        },
+        {
+            "trait_type": "ShoulderSkeletonRight",
+            "value": "Shoulder-Skeleton-Right"
+        },
+        {
+            "trait_type": "ShoulderRight",
+            "value": "Red-Tower"
+        },
+        {
+            "trait_type": "FootRight",
+            "value": "Ghost-Armor"
+        },
+        {
+            "trait_type": "LegRight",
+            "value": "Ghost-Spike"
+        },
+        {
+            "trait_type": "LegSkeletonRight",
+            "value": "Leg-Skeleton-Right"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Ghost-Spike"
+        },
+        {
+            "trait_type": "LowerBody",
+            "value": "Red-Square"
+        },
+        {
+            "trait_type": "FootLeft",
+            "value": "Ghost-Stripe-Armor"
+        },
+        {
+            "trait_type": "LegLeft",
+            "value": "Ghost-Sphere"
+        },
+        {
+            "trait_type": "LegSkeletonLeft",
+            "value": "Leg-Skeleton-Left"
+        },
+        {
+            "trait_type": "ArmLeft",
+            "value": "Ghost-Sphere"
+        },
+        {
+            "trait_type": "HandLeft",
+            "value": "Red-Hand"
+        },
+        {
+            "trait_type": "ShoulderSkeletonLeft",
+            "value": "Shoulder-Skeleton-Left"
+        },
+        {
+            "trait_type": "Cockpit",
+            "value": "Red-Sphere"
+        },
+        {
+            "trait_type": "Lcd",
+            "value": "Tongue"
+        },
+        {
+            "trait_type": "ShoulderLeft",
+            "value": "Red-Bulky"
+        },
+        {
+            "trait_type": "HeadSkeleton",
+            "value": "Head-Skeleton"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Green-Punk"
+        },
+        {
+            "trait_type": "RaceIcon",
+            "value": "Junksmiths"
+        },
+        {
+            "trait_type": "Quality",
+            "value": "Common"
+        }
+    ]
+}

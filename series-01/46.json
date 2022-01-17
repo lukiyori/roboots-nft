@@ -1,0 +1,104 @@
+{
+    "image": "https://raw.githubusercontent.com/lukiyori/roboots-nft/gh-pages/series-01/46.png",
+    "token_id": 46,
+    "name": "Roboots - Junksmiths #0046",
+    "description": "Only Test",
+    "attributes": [
+        {
+            "trait_type": "name",
+            "value": "Junksmiths #0046"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "ArmRight",
+            "value": "Green-Stripe-Sphere"
+        },
+        {
+            "trait_type": "HandRight",
+            "value": "Drill"
+        },
+        {
+            "trait_type": "ShoulderSkeletonRight",
+            "value": "Shoulder-Skeleton-Right"
+        },
+        {
+            "trait_type": "ShoulderRight",
+            "value": "Green-Stripe-Bulky"
+        },
+        {
+            "trait_type": "FootRight",
+            "value": "Green-Stripe-Armor"
+        },
+        {
+            "trait_type": "LegRight",
+            "value": "Green-Stripe-Sphere"
+        },
+        {
+            "trait_type": "LegSkeletonRight",
+            "value": "Leg-Skeleton-Right"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Green-Stripe-Spike"
+        },
+        {
+            "trait_type": "LowerBody",
+            "value": "Green-Stripe-Square"
+        },
+        {
+            "trait_type": "FootLeft",
+            "value": "Green-Stripe-Armor"
+        },
+        {
+            "trait_type": "LegLeft",
+            "value": "Green-Stripe-Spike"
+        },
+        {
+            "trait_type": "LegSkeletonLeft",
+            "value": "Leg-Skeleton-Left"
+        },
+        {
+            "trait_type": "ArmLeft",
+            "value": "Green-Stripe-Sphere"
+        },
+        {
+            "trait_type": "HandLeft",
+            "value": "Pink-Hand"
+        },
+        {
+            "trait_type": "ShoulderSkeletonLeft",
+            "value": "Shoulder-Skeleton-Left"
+        },
+        {
+            "trait_type": "Cockpit",
+            "value": "Green-Stripe-Sphere"
+        },
+        {
+            "trait_type": "Lcd",
+            "value": "Angry-Face"
+        },
+        {
+            "trait_type": "ShoulderLeft",
+            "value": "Green-Stripe-Spike"
+        },
+        {
+            "trait_type": "HeadSkeleton",
+            "value": "Head-Skeleton"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Green-Stripe-Spike"
+        },
+        {
+            "trait_type": "RaceIcon",
+            "value": "Junksmiths"
+        },
+        {
+            "trait_type": "Quality",
+            "value": "Rare"
+        }
+    ]
+}

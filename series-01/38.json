@@ -1,0 +1,104 @@
+{
+    "image": "https://raw.githubusercontent.com/lukiyori/roboots-nft/gh-pages/series-01/38.png",
+    "token_id": 38,
+    "name": "Roboots - Junksmiths #0038",
+    "description": "Only Test",
+    "attributes": [
+        {
+            "trait_type": "name",
+            "value": "Junksmiths #0038"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Dark-Night"
+        },
+        {
+            "trait_type": "ArmRight",
+            "value": "Red-Pixel-Sphere"
+        },
+        {
+            "trait_type": "HandRight",
+            "value": "Ghost-Hand"
+        },
+        {
+            "trait_type": "ShoulderSkeletonRight",
+            "value": "Shoulder-Skeleton-Right"
+        },
+        {
+            "trait_type": "ShoulderRight",
+            "value": "Red-Pixel-Bulky"
+        },
+        {
+            "trait_type": "FootRight",
+            "value": "Red-Armor"
+        },
+        {
+            "trait_type": "LegRight",
+            "value": "Red-Pixel-Spike"
+        },
+        {
+            "trait_type": "LegSkeletonRight",
+            "value": "Leg-Skeleton-Right"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Red-Pixel-Tower"
+        },
+        {
+            "trait_type": "LowerBody",
+            "value": "Red-Pixel-Square"
+        },
+        {
+            "trait_type": "FootLeft",
+            "value": "Red-Armor"
+        },
+        {
+            "trait_type": "LegLeft",
+            "value": "Red-Pixel-Sphere"
+        },
+        {
+            "trait_type": "LegSkeletonLeft",
+            "value": "Leg-Skeleton-Left"
+        },
+        {
+            "trait_type": "ArmLeft",
+            "value": "Red-Pixel-Tower"
+        },
+        {
+            "trait_type": "HandLeft",
+            "value": "Mace"
+        },
+        {
+            "trait_type": "ShoulderSkeletonLeft",
+            "value": "Shoulder-Skeleton-Left"
+        },
+        {
+            "trait_type": "Cockpit",
+            "value": "Red-Pixel-Sphere"
+        },
+        {
+            "trait_type": "Lcd",
+            "value": "FU"
+        },
+        {
+            "trait_type": "ShoulderLeft",
+            "value": "Red-Pixel-Bulky"
+        },
+        {
+            "trait_type": "HeadSkeleton",
+            "value": "Head-Skeleton"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Red-Pixel-Tower"
+        },
+        {
+            "trait_type": "RaceIcon",
+            "value": "Junksmiths"
+        },
+        {
+            "trait_type": "Quality",
+            "value": "Rare"
+        }
+    ]
+}

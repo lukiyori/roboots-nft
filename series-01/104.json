@@ -1,0 +1,104 @@
+{
+    "image": "https://raw.githubusercontent.com/lukiyori/roboots-nft/gh-pages/series-01/104.png",
+    "token_id": 104,
+    "name": "Roboots - Junksmiths #0104",
+    "description": "Only Test",
+    "attributes": [
+        {
+            "trait_type": "name",
+            "value": "Junksmiths #0104"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "ArmRight",
+            "value": "Red-Stripe-Bulky"
+        },
+        {
+            "trait_type": "HandRight",
+            "value": "Winter-Hand"
+        },
+        {
+            "trait_type": "ShoulderSkeletonRight",
+            "value": "Shoulder-Skeleton-Right"
+        },
+        {
+            "trait_type": "ShoulderRight",
+            "value": "Ghost-Bulky"
+        },
+        {
+            "trait_type": "FootRight",
+            "value": "Ghost-Armor"
+        },
+        {
+            "trait_type": "LegRight",
+            "value": "Indigo-Spike"
+        },
+        {
+            "trait_type": "LegSkeletonRight",
+            "value": "Leg-Skeleton-Right"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Indigo-Tower"
+        },
+        {
+            "trait_type": "LowerBody",
+            "value": "Indigo-Camo-Square"
+        },
+        {
+            "trait_type": "FootLeft",
+            "value": "Ghost-Armor"
+        },
+        {
+            "trait_type": "LegLeft",
+            "value": "Indigo-Camo-Bulky"
+        },
+        {
+            "trait_type": "LegSkeletonLeft",
+            "value": "Leg-Skeleton-Left"
+        },
+        {
+            "trait_type": "ArmLeft",
+            "value": "Ghost-Stripe-Bulky"
+        },
+        {
+            "trait_type": "HandLeft",
+            "value": "Mace"
+        },
+        {
+            "trait_type": "ShoulderSkeletonLeft",
+            "value": "Shoulder-Skeleton-Left"
+        },
+        {
+            "trait_type": "Cockpit",
+            "value": "Ghost-Stripe-Sphere"
+        },
+        {
+            "trait_type": "Lcd",
+            "value": "Rock-On"
+        },
+        {
+            "trait_type": "ShoulderLeft",
+            "value": "Ghost-Tower"
+        },
+        {
+            "trait_type": "HeadSkeleton",
+            "value": "Head-Skeleton"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Indigo-Camo-Tower"
+        },
+        {
+            "trait_type": "RaceIcon",
+            "value": "Junksmiths"
+        },
+        {
+            "trait_type": "Quality",
+            "value": "Common"
+        }
+    ]
+}
