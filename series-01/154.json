@@ -2,7 +2,7 @@
     "image": "https://raw.githubusercontent.com/lukiyori/roboots-nft/gh-pages/series-01/154.png",
     "token_id": 154,
     "name": "Roboots - Junksmiths #0154",
-    "description": "Only Test",
+    "description": "Roboots are fighters from Robootsland Universe. They fight each other based on level, color and chance factors in an RNG-based P2E browser game. Roboots can be traded and can be rented by their owners to other Roboots players. https://www.roboots.io/",
     "attributes": [
         {
             "trait_type": "name",
@@ -10,87 +10,67 @@
         },
         {
             "trait_type": "Background",
-            "value": "Blue-Night"
+            "value": "Sunset"
         },
         {
             "trait_type": "ArmRight",
-            "value": "Ghost-Sphere"
+            "value": "Pink-Spike"
         },
         {
             "trait_type": "HandRight",
-            "value": "Red-Hand"
-        },
-        {
-            "trait_type": "ShoulderSkeletonRight",
-            "value": "Shoulder-Skeleton-Right"
+            "value": "Saw"
         },
         {
             "trait_type": "ShoulderRight",
-            "value": "Green-Spike"
+            "value": "Red-Sphere"
         },
         {
             "trait_type": "FootRight",
-            "value": "Pink-Armor"
+            "value": "Ghost-Armor"
         },
         {
             "trait_type": "LegRight",
-            "value": "Pink-Leopard-Spike"
-        },
-        {
-            "trait_type": "LegSkeletonRight",
-            "value": "Leg-Skeleton-Right"
+            "value": "Ghost-Spike"
         },
         {
             "trait_type": "Body",
-            "value": "Green-Stripe-Spike"
+            "value": "Red-Spike"
         },
         {
             "trait_type": "LowerBody",
-            "value": "Pink-Stripe-Sphere"
+            "value": "Red-Square"
         },
         {
             "trait_type": "FootLeft",
-            "value": "Pink-Armor"
+            "value": "Ghost-Stripe-Armor"
         },
         {
             "trait_type": "LegLeft",
-            "value": "Pink-Leopard-Spike"
-        },
-        {
-            "trait_type": "LegSkeletonLeft",
-            "value": "Leg-Skeleton-Left"
+            "value": "Ghost-Stripe-Sphere"
         },
         {
             "trait_type": "ArmLeft",
-            "value": "Ghost-Stripe-Bulky"
+            "value": "Ghost-Bulky"
         },
         {
             "trait_type": "HandLeft",
-            "value": "Ghost-Hand"
-        },
-        {
-            "trait_type": "ShoulderSkeletonLeft",
-            "value": "Shoulder-Skeleton-Left"
+            "value": "Beam-Gun"
         },
         {
             "trait_type": "Cockpit",
-            "value": "Pink-Stripe-Sphere"
+            "value": "Red-Pixel-Sphere"
         },
         {
             "trait_type": "Lcd",
-            "value": "Rock-On"
+            "value": "FU"
         },
         {
             "trait_type": "ShoulderLeft",
-            "value": "Green-Stripe-Bulky"
-        },
-        {
-            "trait_type": "HeadSkeleton",
-            "value": "Head-Skeleton"
+            "value": "Red-Stripe-Tower"
         },
         {
             "trait_type": "Head",
-            "value": "Pink-Leopard-Spike"
+            "value": "Pink-Tower"
         },
         {
             "trait_type": "RaceIcon",

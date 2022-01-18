@@ -2,7 +2,7 @@
     "image": "https://raw.githubusercontent.com/lukiyori/roboots-nft/gh-pages/series-01/139.png",
     "token_id": 139,
     "name": "Roboots - Junksmiths #0139",
-    "description": "Only Test",
+    "description": "Roboots are fighters from Robootsland Universe. They fight each other based on level, color and chance factors in an RNG-based P2E browser game. Roboots can be traded and can be rented by their owners to other Roboots players. https://www.roboots.io/",
     "attributes": [
         {
             "trait_type": "name",
@@ -10,87 +10,67 @@
         },
         {
             "trait_type": "Background",
-            "value": "Neon-Sky"
+            "value": "Heatwave"
         },
         {
             "trait_type": "ArmRight",
-            "value": "Pink-Spike"
+            "value": "Green-Stripe-Spike"
         },
         {
             "trait_type": "HandRight",
-            "value": "Hand"
-        },
-        {
-            "trait_type": "ShoulderSkeletonRight",
-            "value": "Shoulder-Skeleton-Right"
+            "value": "Winter-Hand"
         },
         {
             "trait_type": "ShoulderRight",
-            "value": "Green-Camo-Sphere"
+            "value": "Ghost-Spike"
         },
         {
             "trait_type": "FootRight",
-            "value": "Red-Stripe-Armor"
+            "value": "Stripe-Caterpillar"
         },
         {
             "trait_type": "LegRight",
-            "value": "Red-Stripe-Bulky"
-        },
-        {
-            "trait_type": "LegSkeletonRight",
-            "value": "Leg-Skeleton-Right"
+            "value": "Ghost-Bulky"
         },
         {
             "trait_type": "Body",
-            "value": "Pink-Stripe-Tower"
+            "value": "Ghost-Stripe-Sphere"
         },
         {
             "trait_type": "LowerBody",
-            "value": "Green-Camo-Sphere"
+            "value": "Green-Square"
         },
         {
             "trait_type": "FootLeft",
-            "value": "Red-Stripe-Armor"
+            "value": "Stripe-Caterpillar"
         },
         {
             "trait_type": "LegLeft",
-            "value": "Red-Sphere"
-        },
-        {
-            "trait_type": "LegSkeletonLeft",
-            "value": "Leg-Skeleton-Left"
+            "value": "Ghost-Bulky"
         },
         {
             "trait_type": "ArmLeft",
-            "value": "Red-Stripe-Tower"
+            "value": "Green-Spike"
         },
         {
             "trait_type": "HandLeft",
-            "value": "Saw"
-        },
-        {
-            "trait_type": "ShoulderSkeletonLeft",
-            "value": "Shoulder-Skeleton-Left"
+            "value": "Ghost-Hand"
         },
         {
             "trait_type": "Cockpit",
-            "value": "Green-Stripe-Sphere"
+            "value": "Green-Sphere"
         },
         {
             "trait_type": "Lcd",
-            "value": "Angry-Face"
+            "value": "Heart-Face"
         },
         {
             "trait_type": "ShoulderLeft",
-            "value": "Green-Camo-Bulky"
-        },
-        {
-            "trait_type": "HeadSkeleton",
-            "value": "Head-Skeleton"
+            "value": "Ghost-Stripe-Bulky"
         },
         {
             "trait_type": "Head",
-            "value": "Red-Stripe-Punk"
+            "value": "Ghost-Spike"
         },
         {
             "trait_type": "RaceIcon",

@@ -1,0 +1,84 @@
+{
+    "image": "https://raw.githubusercontent.com/lukiyori/roboots-nft/gh-pages/series-01/4.png",
+    "token_id": 4,
+    "name": "Roboots - QWERTY",
+    "description": "Roboots are fighters from Robootsland Universe. They fight each other based on level, color and chance factors in an RNG-based P2E browser game. Roboots can be traded and can be rented by their owners to other Roboots players. https://www.roboots.io/",
+    "attributes": [
+        {
+            "trait_type": "name",
+            "value": "QWERTY"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "ArmRight",
+            "value": "Red-Pixel-Spike"
+        },
+        {
+            "trait_type": "HandRight",
+            "value": "Saw"
+        },
+        {
+            "trait_type": "ShoulderRight",
+            "value": "Red-Pixel-Spike"
+        },
+        {
+            "trait_type": "FootRight",
+            "value": "Red-Armor"
+        },
+        {
+            "trait_type": "LegRight",
+            "value": "Red-Pixel-Spike"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Red-Pixel-Spike"
+        },
+        {
+            "trait_type": "LowerBody",
+            "value": "Red-Pixel-Sphere"
+        },
+        {
+            "trait_type": "FootLeft",
+            "value": "Red-Armor"
+        },
+        {
+            "trait_type": "LegLeft",
+            "value": "Red-Pixel-Spike"
+        },
+        {
+            "trait_type": "ArmLeft",
+            "value": "Red-Pixel-Spike"
+        },
+        {
+            "trait_type": "HandLeft",
+            "value": "Hand"
+        },
+        {
+            "trait_type": "Cockpit",
+            "value": "Red-Pixel-Sphere"
+        },
+        {
+            "trait_type": "Lcd",
+            "value": "I-Heart-You"
+        },
+        {
+            "trait_type": "ShoulderLeft",
+            "value": "Red-Spike"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Red-Pixel-Punk"
+        },
+        {
+            "trait_type": "RaceIcon",
+            "value": "Junksmiths"
+        },
+        {
+            "trait_type": "Quality",
+            "value": "Rare"
+        }
+    ]
+}
