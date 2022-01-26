@@ -1,0 +1,84 @@
+{
+    "image": "https://nft.robootsverse.com/ready-u539ske3/8.png",
+    "token_id": 8,
+    "name": "Roboots - Junksmiths #0008",
+    "description": "Roboots are fighters from Robootsland Universe. They fight each other based on level, color and chance factors in an RNG-based P2E browser game. Roboots can be traded and can be rented by their owners to other Roboots players. https://www.roboots.io/",
+    "attributes": [
+        {
+            "trait_type": "name",
+            "value": "Junksmith #0008"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Blue-Night"
+        },
+        {
+            "trait_type": "ArmRight",
+            "value": "Green-Stripe-Bulky"
+        },
+        {
+            "trait_type": "HandRight",
+            "value": "Pink-Hand"
+        },
+        {
+            "trait_type": "ShoulderRight",
+            "value": "Green-Stripe-Sphere"
+        },
+        {
+            "trait_type": "FootRight",
+            "value": "Green-Stripe-Armor"
+        },
+        {
+            "trait_type": "LegRight",
+            "value": "Green-Stripe-Spike"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Green-Stripe-Sphere"
+        },
+        {
+            "trait_type": "LowerBody",
+            "value": "Green-Stripe-Sphere"
+        },
+        {
+            "trait_type": "FootLeft",
+            "value": "Green-Stripe-Armor"
+        },
+        {
+            "trait_type": "LegLeft",
+            "value": "Green-Stripe-Sphere"
+        },
+        {
+            "trait_type": "ArmLeft",
+            "value": "Green-Stripe-Bulky"
+        },
+        {
+            "trait_type": "HandLeft",
+            "value": "Mace"
+        },
+        {
+            "trait_type": "Cockpit",
+            "value": "Green-Stripe-Sphere"
+        },
+        {
+            "trait_type": "Lcd",
+            "value": "I-Heart-You"
+        },
+        {
+            "trait_type": "ShoulderLeft",
+            "value": "Green-Stripe-Bulky"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Green-Stripe-Square"
+        },
+        {
+            "trait_type": "RaceIcon",
+            "value": "Junksmiths"
+        },
+        {
+            "trait_type": "Quality",
+            "value": "Rare"
+        }
+    ]
+}

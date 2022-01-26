@@ -1,0 +1,84 @@
+{
+    "image": "https://nft.robootsverse.com/ready-u539ske3/136.png",
+    "token_id": 136,
+    "name": "Roboots - Junksmiths #0136",
+    "description": "Roboots are fighters from Robootsland Universe. They fight each other based on level, color and chance factors in an RNG-based P2E browser game. Roboots can be traded and can be rented by their owners to other Roboots players. https://www.roboots.io/",
+    "attributes": [
+        {
+            "trait_type": "name",
+            "value": "Junksmith #0136"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Dark-Night"
+        },
+        {
+            "trait_type": "ArmRight",
+            "value": "Winter-Camo-Sphere"
+        },
+        {
+            "trait_type": "HandRight",
+            "value": "Drill"
+        },
+        {
+            "trait_type": "ShoulderRight",
+            "value": "Red-Spike"
+        },
+        {
+            "trait_type": "FootRight",
+            "value": "Pink-Armor"
+        },
+        {
+            "trait_type": "LegRight",
+            "value": "Red-Sphere"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Red-Stripe-Sphere"
+        },
+        {
+            "trait_type": "LowerBody",
+            "value": "Pink-Stripe-Square"
+        },
+        {
+            "trait_type": "FootLeft",
+            "value": "Pink-Armor"
+        },
+        {
+            "trait_type": "LegLeft",
+            "value": "Red-Spike"
+        },
+        {
+            "trait_type": "ArmLeft",
+            "value": "Winter-Camo-Tower"
+        },
+        {
+            "trait_type": "HandLeft",
+            "value": "Indigo-Hand"
+        },
+        {
+            "trait_type": "Cockpit",
+            "value": "Winter-Camo-Sphere"
+        },
+        {
+            "trait_type": "Lcd",
+            "value": "Angry-Face"
+        },
+        {
+            "trait_type": "ShoulderLeft",
+            "value": "Red-Sphere"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Pink-Stripe-Punk"
+        },
+        {
+            "trait_type": "RaceIcon",
+            "value": "Junksmiths"
+        },
+        {
+            "trait_type": "Quality",
+            "value": "Common"
+        }
+    ]
+}
